@@ -1,4 +1,4 @@
-@import 'fontawesome';
+@import 'font-awesome.min.css';
 
 @mixin font-face($font-family, $file-path, $weight: normal, $style: normal ) {
   @font-face {

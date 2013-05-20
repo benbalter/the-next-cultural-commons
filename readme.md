@@ -1,6 +1,6 @@
-# Open Sourcing Government
+# The Next Cultural Commons
 
-*Applying the open-collaboration philosophy to the process of governing*
+*How the Internet has been quietly assembling the next cultural canon*
 
 ## Requirements
 
